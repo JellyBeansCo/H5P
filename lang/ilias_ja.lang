@@ -1,0 +1,160 @@
+obj_xhfp#:#H5P
+obj_xhfp_duplicate#:#H5Pをコピー
+objs_xhfp#:#H5P
+objs_xhfp_duplicate#:#H5Pをコピー
+grp_create_xhfp#:#H5Pを作成
+crs_create_xhfp#:#H5Pを作成
+cat_create_xhfp#:#H5Pを作成
+root_create_xhfp#:#H5Pを作成
+fold_create_xhfp#:#H5Pを作成
+rbac_create_xhfp#:#H5Pを作成
+rep_robj_xhfp_obj_xhfp#:#H5P
+xhfp_add#:#追加
+xhfp_copy#:#コピー
+xhfp_delete#:#削除
+xhfp_edit_permission#:#権限を修正
+xhfp_new#:#H5Pを作成
+xhfp_read#:#読み込み
+xhfp_visible#:#表示
+xhfp_write#:#編集
+actions#:#アクション
+add#:#追加
+add_content#:#コンテンツを追加
+added_library#:#追加された %%new 件の新規H5Pライブラリ
+added_libraries#:#追加された %%new 件の新規H5Pライブラリ
+added_library_updated_library#:#追加された %%new 件の新規H5Pライブラリとアップデートされた %%old 件の古いライブラリ。
+added_library_updated_libraries#:#追加された %%new 件の新規H5Pライブラリとアップデートされた %%old 件の古いライブラリ。
+added_libraries_updated_library#:#追加された %%new 件の新規H5Pライブラリとアップデートされた %%old 件の古いライブラリ。
+added_libraries_updated_libraries#:#追加された %%new 件の新規H5Pライブラリとアップデートされた %%old 件の古いライブラリ。
+all#:#すべて
+author#:#作者
+by#:#による
+cancel#:#キャンセル
+categories#:#カテゴリ
+close#:#閉じる
+confirm#:#承認
+confirm_action#:#承認処理
+confirm_action_text#:#希望する処理を承認してください。この処理は、戻せません。
+content#:#コンテンツ
+content_changed#:#このコンテンツは、前回の使用後に変更が加えられました。
+content_count#:# %2$d 件中の %1$d 件のコンテンツ。
+content_not_exists#:#H5Pコンテンツは既にありません。
+content_types#:#コンテンツの種類
+contents#:#コンテンツ
+delete#:#削除
+delete_content#:#コンテンツを削除
+delete_content_confirm#:#このコンテンツを削除してよいですか？: %s
+delete_library_confirm#:#このライブラリを削除してよいですか？: %s
+delete_library_in_use#:#このライブラリは使用中です。
+delete_results_confirm#:#本当に %s コンテンツを削除しますか？ 
+deleted_content#:#コンテンツ %s 削除
+deleted_files#:#これら %s: のファイルが削除されました。
+deleted_library#:#ライブラリ %s を削除
+deleted_results#:#結果のうちの %s を削除
+description#:#解説
+details#:#詳細
+disable_fullscreen#:#全画面表示を禁止
+download#:#ダウンロード
+download_content#:#このコンテンツをH5Pとしてダウンロード。
+edit#:#編集
+edit_content#:#コンテンツを編集
+edit_permission#:#権限を編集
+embed#:#埋め込み
+embed_include_script#:#埋め込みコンテンツのサイズをダイナミックに変更したい場合は、このスクリプトをウェブサイトに組み込んでください:
+enable_lrs_content_types#:#Learning Record Store依存のコンテンツタイプを有効にする。
+enable_lrs_content_types_info#:Questionnaireコンテンツタイプのように、Learning Record Storeに依存して正しく機能するコンテンツタイプを使用できるようにします。
+example#:#例
+export#:#エクスポート
+export_content#:#コンテンツをエクスポート
+files#:#ファイル:
+finish#:#完了
+finished#:#完了
+fullscreen#:#全画面
+hide_advanced#:#アドバンスを隠す
+hub_last_refresh#:#最後にリフレッシュされたハブ: %s
+hub_refresh#:#ハブをリフレッシュ
+hub_refreshed#:#ハブの更新はすみました。
+import#:#インポート
+import_content#:#コンテンツをインポート
+incomplete_content#:#このH5Pコンテンツは不完全です。すべての入力と要求されるフィールドをチェックしてください。
+install#:#インストール
+installed#:#インストール済み
+installed_libraries#:#ライブラリ
+installed_version#:#インストール済みバージョン
+keywords#:#キーワード
+latest_version#:#最終バージョン
+library#:#ライブラリ
+libraries#:#ライブラリ
+license#:#ライセンス
+manage_contents#:#編集
+msg_content_not_editable#:#すでに結果が出ているため、内容を編集することはできません。
+next_content#:#次のコンテンツ
+no#:#いいえ
+not_available#:#無効
+no_content_copyright#:#このコンテンツに著作情報はありません。
+no_result#:#結果なし
+not_installed#:#未インストール
+offline#:#オフライン
+online#:#オンライン
+only_not_used#:#未使用のみ
+only_runnable#:#実行可のみ
+permission_denied#:#権限なし
+previous_content#:#前のコンテンツ
+read#:#読み込み
+required_libraries#:#要求されたライブラリ
+results#:#結果
+rights_of_use#:#使用許諾
+runnable#:#実行可
+save#:#保存
+saved_content#:#%s 保存済み
+send_usage_statistics#:#利用統計の自動投稿
+send_usage_statistics_info#:#利用統計の数値は、開発者がH5Pの利用状況をより良く理解し、改善の可能性を判断するために自動的に報告されます。どのデータが%sで収集されるかについては、こちらをご覧ください。
+settings#:#設定
+settings_saved#:#設定が保存されました
+show#:#表示
+show_advanced#:#アドバンストを表示
+show_contents#:#コンテンツ
+show_less#:#表示を少なく
+show_more#:#もっと表示
+size#:#サイズ
+solve_only_once#:#一度だけコンテンツを解決
+solve_only_once_info#:#ノート: コンテンツによっては、ソリューションをオフにする必要があります。 / リトライボタン
+solved_all_contents#:#すべてのコンテンツを解決済みです。
+solved_content#:#コンテンツを解決済みです。
+source#:#ソース
+start_over#:#やり直しできます。
+status#:#ステータス
+sublevel#:#サブレベル
+summary#:#要約
+thumbnail#:#サムネイル
+title#:#タイトル
+tutorial#:#チュートリアル
+updated_library#:#H5Pライブラリがアップデートされました。%%old
+updated_libraries#:#H5Pライブラリがアップデートされました。%%old
+upgrade#:#アップグレード
+upgrade_available#:#アップグレード可
+upload#:#アップロード
+upload_file#:#ファイルをアップロード
+upload_file_info#:#ファイルをアップロード\nZipファイルは自動的に解答されます\n'ソース'以下の開始ファイルを入力してください。
+upload_library#:#ライブラリをアップロード
+uploaded_files#:#次のファイルは %s: にアップロードされました。
+uploaded_files_failed#:#有害な拡張子を含むため次のファイルは受け付けられませんでした。:
+usage_contents#:#使用中のコンテンツ
+usage_libraries#:#使用中のライブラリ
+usage_statistics#:#使用状況
+user#:#ユーザー
+version#:#バージョン
+view_content_copyright#:#このコンテンツの著作情報を見る。
+view_embed_code#:#このコンテンツの組み込み済みコードを見る。
+visible#:#表示
+write#:#書き込み
+year#:#年
+yes#:#はい
+hub#:#ハブ
+delete_old_events#:#古いイベントログを削除
+delete_old_events_description#:#H5Pによって作られた古いイベントログを削除
+delete_old_tmp_files#:#古い一時ファイルを削除
+delete_old_tmp_files_description#:#H5Pによって作られた古い一時ファイルを削除
+refresh_hub#:#ハブリストをリフレッシュ
+refresh_hub_description#:#ハブリストを再読み込み
+object_not_found#:#要求されたH5Pは見つかりませんでした。
